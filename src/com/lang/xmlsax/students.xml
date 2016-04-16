@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<students>
+    <student>
+         <name>lang</name>
+         <number>1</number>
+    </student>
+    <student>
+         <name>yuan</name>
+         <number>2</number>
+    </student>
+</students>
